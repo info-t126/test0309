@@ -9,6 +9,9 @@
         "main.blocks",
         "main.ts",
         "README.md"
+        "B/L2/P1.md"
+        "B/L2/P2.md"
+        "B/L2/P3.md"
     ],
     "testFiles": [
         "test.ts"
